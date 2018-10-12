@@ -1,0 +1,42 @@
+img {
+  width: 200px;
+}
+
+h1 {
+  font-family: 'Charmonman', cursive;
+font-family: 'Lobster', cursive;
+}
+
+section {
+  display: inline-block;
+  margin: .25em;
+  font-family: 'Charmonman', cursive;
+  
+}
+
+#image-template {
+
+  float: left;
+  width: 100%;
+  
+}
+
+#image-filter {
+
+  float: top;
+  width: 200px;
+  font-family: 'Charmonman', cursive;
+font-family: 'Lobster', cursive;
+}
+
+body {
+  background-image: url("maldives_sunset_rainbow_sky-1200581.jpg!d");
+  width: 100%;
+  margin: 0%;
+  height: 100%;
+  background-position: top;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+   
+}
